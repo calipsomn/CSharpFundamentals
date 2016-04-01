@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+D:\Projects\Telerik\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\Projects\Telerik\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\Projects\Telerik\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb

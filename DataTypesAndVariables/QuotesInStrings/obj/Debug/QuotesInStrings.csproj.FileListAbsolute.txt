@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
