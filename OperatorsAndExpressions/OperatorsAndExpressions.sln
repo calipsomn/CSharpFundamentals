@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEven", "OddOrEven\OddO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonGravity", "MoonGravity\MoonGravity.csproj", "{A8EFFB94-0E3F-4D5C-9BEA-3E249620B090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideBy7And5", "DivideBy7And5\DivideBy7And5.csproj", "{80431B31-3B03-459C-BDC2-0E7C8D63900A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles", "Rectangles\Rectangles.csproj", "{3EB43FBB-F937-42A4-BF77-75B86504979A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A8EFFB94-0E3F-4D5C-9BEA-3E249620B090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8EFFB94-0E3F-4D5C-9BEA-3E249620B090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8EFFB94-0E3F-4D5C-9BEA-3E249620B090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80431B31-3B03-459C-BDC2-0E7C8D63900A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80431B31-3B03-459C-BDC2-0E7C8D63900A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80431B31-3B03-459C-BDC2-0E7C8D63900A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80431B31-3B03-459C-BDC2-0E7C8D63900A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB43FBB-F937-42A4-BF77-75B86504979A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB43FBB-F937-42A4-BF77-75B86504979A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB43FBB-F937-42A4-BF77-75B86504979A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB43FBB-F937-42A4-BF77-75B86504979A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
