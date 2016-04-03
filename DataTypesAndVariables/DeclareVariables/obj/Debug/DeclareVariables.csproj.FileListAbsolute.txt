@@ -6,3 +6,9 @@ D:\Projects\Telerik\C# Fundamentals\DataTypesAndVariables\DeclareVariables\obj\D
 D:\Projects\Telerik\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
 D:\Projects\Telerik\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
 D:\Projects\Telerik\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+D:\projects\github\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\projects\github\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\projects\github\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+D:\projects\github\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe
+D:\projects\github\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+D:\projects\github\CSharpFundamentals\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache

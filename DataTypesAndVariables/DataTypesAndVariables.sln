@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesInStrings", "QuotesIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclareVariables", "DeclareVariables\DeclareVariables.csproj", "{DC380122-8F4E-433E-96DF-19DCB168C67F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats", "ComparingFloats\ComparingFloats.csproj", "{65D9ED63-9D19-4899-AEE1-8ED497F71EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTheASCIITable", "PrintTheASCIITable\PrintTheASCIITable.csproj", "{2D01D187-3063-4170-A49A-10FA17FD32E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DC380122-8F4E-433E-96DF-19DCB168C67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC380122-8F4E-433E-96DF-19DCB168C67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC380122-8F4E-433E-96DF-19DCB168C67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D9ED63-9D19-4899-AEE1-8ED497F71EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D9ED63-9D19-4899-AEE1-8ED497F71EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D9ED63-9D19-4899-AEE1-8ED497F71EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D9ED63-9D19-4899-AEE1-8ED497F71EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D01D187-3063-4170-A49A-10FA17FD32E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D01D187-3063-4170-A49A-10FA17FD32E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D01D187-3063-4170-A49A-10FA17FD32E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D01D187-3063-4170-A49A-10FA17FD32E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
