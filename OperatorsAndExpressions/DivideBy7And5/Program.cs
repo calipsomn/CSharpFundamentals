@@ -11,7 +11,7 @@ namespace DivideBy7And5
         static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
-            Console.WriteLine(number % 7 == 0 && number % 5 == 0 ? "true " : "false " + number);
+            Console.WriteLine("{0} {1}", number % 7 == 0 && number % 5 == 0 ? "true" : "false", number);
         }
     }
 }
