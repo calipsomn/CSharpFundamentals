@@ -11,7 +11,7 @@ namespace OddOrEven
         static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
-            Console.WriteLine(number % 2 == 0 ? "even " : "odd " + number);
+            Console.WriteLine("{0} {1}", number % 2 == 0 ? "even" : "odd", number);
         }
     }
 }
