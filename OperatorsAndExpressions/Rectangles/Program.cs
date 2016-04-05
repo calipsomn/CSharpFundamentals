@@ -10,9 +10,9 @@ namespace Rectangles
     {
         static void Main(string[] args)
         {
-            float width = float.Parse(Console.ReadLine());
-            float height = float.Parse(Console.ReadLine());
-            Console.WriteLine((width * height).ToString("0.00") + " " + (2 * width + 2 * height).ToString("0.00"));
+            double width = double.Parse(Console.ReadLine());
+            double height = double.Parse(Console.ReadLine());
+            Console.WriteLine("{0:F2} {1:F2}", (width * height), (2.0 * width + 2.0 * height));
         }
     }
 }
