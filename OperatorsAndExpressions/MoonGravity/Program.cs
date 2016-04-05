@@ -11,7 +11,7 @@ namespace MoonGravity
         static void Main(string[] args)
         {
             float w = float.Parse(Console.ReadLine());
-            Console.WriteLine((w * 17.00 / 100.00).ToString("0.000"));
+            Console.WriteLine("{0:F3}", (w * 17.000f / 100.000f));
         }
     }
 }
