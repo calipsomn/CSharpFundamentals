@@ -15,6 +15,28 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate", "Calculate\Calc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAgain", "CalculateAgain\CalculateAgain.csproj", "{0DA50220-EDD5-4FDD-B6F7-72A7D11BD259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate3", "Calculate3\Calculate3.csproj", "{227CC85D-6C1E-4E29-9E56-89C18398C369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalanNumbers", "CatalanNumbers\CatalanNumbers.csproj", "{5C5CDC33-496D-48AB-92CF-198E2B79A13F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixOfNumbers", "MatrixOfNumbers\MatrixOfNumbers.csproj", "{405921D0-C165-4E62-9BDE-292138F2F40E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEvenProduct", "OddAndEvenProduct\OddAndEvenProduct.csproj", "{F3F35CF9-A0E7-4D2D-9088-D1BFD6BF687D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryToDecimal", "BinaryToDecimal\BinaryToDecimal.csproj", "{3586FB2E-6F44-4ABC-B0E9-726D0225429E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimaToBinary", "DecimaToBinary\DecimaToBinary.csproj", "{35D5CF9C-F3B4-4B7C-B415-2D59690B4075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToHex", "DecimalToHex\DecimalToHex.csproj", "{F78DBAE9-599A-416C-B455-52B217935754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexToDecimal", "HexToDecimal\HexToDecimal.csproj", "{66B0773D-FC76-479E-A2CD-6C8760FB755C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCD", "GCD\GCD.csproj", "{F02727BF-FC16-4F86-A3F9-29E3BD7E79EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trailing0InN", "Trailing0InN\Trailing0InN.csproj", "{CDEF1126-211F-408F-ACFC-B364AA4CAF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{F19021DD-2506-45C8-B130-2265B738CDA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +67,50 @@ Global
 		{0DA50220-EDD5-4FDD-B6F7-72A7D11BD259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DA50220-EDD5-4FDD-B6F7-72A7D11BD259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DA50220-EDD5-4FDD-B6F7-72A7D11BD259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227CC85D-6C1E-4E29-9E56-89C18398C369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227CC85D-6C1E-4E29-9E56-89C18398C369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227CC85D-6C1E-4E29-9E56-89C18398C369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227CC85D-6C1E-4E29-9E56-89C18398C369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5CDC33-496D-48AB-92CF-198E2B79A13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5CDC33-496D-48AB-92CF-198E2B79A13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5CDC33-496D-48AB-92CF-198E2B79A13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5CDC33-496D-48AB-92CF-198E2B79A13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405921D0-C165-4E62-9BDE-292138F2F40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405921D0-C165-4E62-9BDE-292138F2F40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405921D0-C165-4E62-9BDE-292138F2F40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405921D0-C165-4E62-9BDE-292138F2F40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F35CF9-A0E7-4D2D-9088-D1BFD6BF687D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F35CF9-A0E7-4D2D-9088-D1BFD6BF687D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F35CF9-A0E7-4D2D-9088-D1BFD6BF687D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F35CF9-A0E7-4D2D-9088-D1BFD6BF687D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3586FB2E-6F44-4ABC-B0E9-726D0225429E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3586FB2E-6F44-4ABC-B0E9-726D0225429E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3586FB2E-6F44-4ABC-B0E9-726D0225429E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3586FB2E-6F44-4ABC-B0E9-726D0225429E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D5CF9C-F3B4-4B7C-B415-2D59690B4075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D5CF9C-F3B4-4B7C-B415-2D59690B4075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D5CF9C-F3B4-4B7C-B415-2D59690B4075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D5CF9C-F3B4-4B7C-B415-2D59690B4075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78DBAE9-599A-416C-B455-52B217935754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78DBAE9-599A-416C-B455-52B217935754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78DBAE9-599A-416C-B455-52B217935754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78DBAE9-599A-416C-B455-52B217935754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B0773D-FC76-479E-A2CD-6C8760FB755C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B0773D-FC76-479E-A2CD-6C8760FB755C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B0773D-FC76-479E-A2CD-6C8760FB755C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B0773D-FC76-479E-A2CD-6C8760FB755C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02727BF-FC16-4F86-A3F9-29E3BD7E79EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02727BF-FC16-4F86-A3F9-29E3BD7E79EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02727BF-FC16-4F86-A3F9-29E3BD7E79EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02727BF-FC16-4F86-A3F9-29E3BD7E79EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEF1126-211F-408F-ACFC-B364AA4CAF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEF1126-211F-408F-ACFC-B364AA4CAF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEF1126-211F-408F-ACFC-B364AA4CAF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEF1126-211F-408F-ACFC-B364AA4CAF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19021DD-2506-45C8-B130-2265B738CDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19021DD-2506-45C8-B130-2265B738CDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19021DD-2506-45C8-B130-2265B738CDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19021DD-2506-45C8-B130-2265B738CDA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
